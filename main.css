@@ -1,0 +1,30 @@
+body{
+text-align:center;
+background-color:pink;
+}
+
+img{
+width:300px;
+height:400px
+}
+h1,h2{
+text-shadow:2px 2px #EA80FC;
+font-size:30px;
+
+}
+p{
+font-size:20px;
+}
+
+.items:hover{
+    color: cyan;
+}
+
+.menu{
+    list-style: none;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
